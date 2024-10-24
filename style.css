@@ -1,0 +1,205 @@
+body {
+    background-color: black;
+}
+
+.user {
+    color: white;
+    padding-left: 1100px;
+    position: relative;
+    bottom: 540px;
+    padding-right: 200px;
+}
+
+.ronaldo {
+    color: white;
+    padding-left: 1100px;
+    position: relative;
+    bottom: 580px;
+    padding-right: 200px;
+}
+
+.messi {
+    color: white;
+    padding-left: 1100px;
+    position: relative;
+    bottom: 650px;
+    padding-right: 200px;
+}
+
+.virat {
+    color: white;
+    padding-left: 1100px;
+    position: relative;
+    bottom: 720px;
+    padding-right: 200px;
+}
+
+.lebron {
+    color: white;
+    padding-left: 1100px;
+    position: relative;
+    bottom: 790px;
+    padding-right: 200px;
+}
+
+.neymar {
+    color: white;
+    padding-left: 1100px;
+    position: relative;
+    bottom: 860px;
+    padding-right: 200px;
+}
+
+
+
+.userid {
+    padding-left: 100px;
+    color: white;
+    font-family: Tahoma;
+    font-size: 13px;
+    position: relative;
+    bottom: 70px;
+    right: 35px;
+}
+
+.username {
+    color: white;
+    font-family: Tahoma;
+    font-size: 13px;
+    position: relative;
+    bottom: 90px;
+    left: 65px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.navbar ul li a {
+    display: block;
+    position: relative;
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    top: 100px;
+    font-family: tahoma;
+}
+
+.navbar ul li a:hover {
+    color: red;
+}
+
+.insta {
+    position: relative;
+    right: 1150px;
+    bottom: 10px;
+}
+
+.suggestion {
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.follow {
+    color: #405de6;
+    padding-left: 1350px;
+    position: relative;
+    bottom: 2000px;
+    font-family: tahoma;
+    padding-bottom: 35px;
+}
+
+.switch {
+    color: #405de6;
+    padding-left: 1350px;
+    position: relative;
+    bottom: 2460px;
+    font-family: tahoma;
+    padding-bottom: 35px;
+}
+
+.ronaldocard {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255, );
+    transition: 0.3s;
+    position: relative;
+    bottom: 1300px;
+    left: 400px;
+    color: white;
+    border: 10px;
+    border-color: white;
+    font-family: tahoma;
+}
+
+.messicard {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255, );
+    transition: 0.3s;
+    position: relative;
+    bottom: 1540px;
+    left: 600px;
+    color: white;
+    border: 10px;
+    border-color: white;
+    font-family: tahoma;
+}
+
+.vkcard {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255, );
+    transition: 0.3s;
+    position: relative;
+    bottom: 1780px;
+    left: 800px;
+    color: white;
+    border: 10px;
+    border-color: white;
+    font-family: tahoma;
+}
+
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 16px;
+}
+
+.follow1 {
+    color: #405de6
+}
+
+.smallsuggest {
+    color: gray;
+    padding-left: 1100px;
+    position: relative;
+    bottom: 2480px;
+    font-family: tahoma;
+    padding-bottom: 35px;
+    font-size: 15px;
+}
+
+.smallseeall {
+    color: white;
+    padding-left: 1350px;
+    position: relative;
+    bottom: 2545px;
+    font-family: tahoma;
+    padding-bottom: 35px;
+    font-size: 15px;
+}
+
+.suggestion1 {
+    color: white;
+    position: relative;
+    top: 90px;
+    font-size: 20px;
+    font-family: tahoma;
+    left: 550px;
+}
+
+.x:hover {
+    color: red;
+}

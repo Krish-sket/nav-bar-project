@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    overflow: hidden;
 }
 
 .user {
@@ -90,7 +91,7 @@ body {
 }
 
 .navbar ul li a:hover {
-    color: red;
+    color: grey;
 }
 
 .insta {
@@ -200,6 +201,7 @@ body {
     left: 550px;
 }
 
-.x:hover {
-    color: red;
+.navbar {
+    z-index: 1000;
+    position: relative;
 }
